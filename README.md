@@ -66,6 +66,7 @@ Ukládám data do CSV souboru: vysledky_zlin...
 
 
 Částečný výstup:
+
 Číslo, Název obce, Oprávnění voliči, Vydané obálky, Platné hlasy...
 
 588318, Bělov, 257, 174, 174, 25, 0, 0, 8, 0, 14, 20, 1, 0, 2, 0, 0, 14, 0, 6, 51, 0, 0, 9, 4, 0, 0,20, 0
