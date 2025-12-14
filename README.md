@@ -20,7 +20,9 @@ Spuštění projektu
 Spuštění souboru main.py v rámci příkazového řádku vyžaduje dva povinné argumenty:
 
 python main.py -o <nazev_okresu> -f <nazev_vysledneho_souboru>
+
 nebo:
+
 python main.py --okres <nazev_okresu> --outfile <nazev_vysledneho_souboru>
 
 Následně se výsledky stáhnou a uloží do CSV souboru. Příponu ".csv" není nutné do názvu souboru zadávat, program ji automaticky přidělí sám.
@@ -43,7 +45,9 @@ Výsledky hlasování pro okres Zlín:
 Spuštění programu:
 
 python main.py -o "Zlín" -f vysledky_zlin
+
 nebo:
+
 python main.py --okres "Zlín" --outfile vysledky_zlin
 
 
