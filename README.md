@@ -62,6 +62,7 @@ python main.py --okres "Zlín" --outfile vysledky_zlin
 Průbeh stahování:
 
 Stahuji a analyzuji data pro okres: Zlín...
+
 Ukládám data do CSV souboru: vysledky_zlin...
 
 
